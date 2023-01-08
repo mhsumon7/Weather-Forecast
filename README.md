@@ -1,16 +1,23 @@
-# clima
+# Weather Report App
 
-A new Flutter project.
+This is a flutter-developed application writing in Dart language.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+It can be installed on
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+Android
+```
+```bash
+IOS
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Usage
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```python
+To get updated about current location's weather.
+```
+
+![Screenshot_20230108-063427](https://user-images.githubusercontent.com/74013982/211175346-858c68bf-715c-4a77-8f66-ebc10797ae53.png)
+![Screenshot_20230108-063140](https://user-images.githubusercontent.com/74013982/211175347-40739158-5e4c-45ce-a705-4eaa52543bd8.png)
