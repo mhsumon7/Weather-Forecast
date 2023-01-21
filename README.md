@@ -1,4 +1,4 @@
-# Weather Report App
+# Weather Forecast
 
 This is a flutter-developed application writing in Dart language.
 
